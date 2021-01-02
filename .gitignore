@@ -1,0 +1,13 @@
+# dotenv environment variables file
+.env
+.env.test
+
+# Dependency directories
+node_modules/
+scratch/
+
+# Mac
+.DS_Store
+.npmrc
+.prettierrc
+

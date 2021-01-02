@@ -1,0 +1,36 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 Refresh Token example using the interceptor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selwyntheo/OAuth2.0.git"
+  },
+  "keywords": [
+    "OAuth2.0",
+    "Refresh",
+    "Token"
+  ],
+  "author": "Selwyn Theo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/selwyntheo/OAuth2.0/issues"
+  },
+  "homepage": "https://github.com/selwyntheo/OAuth2.0#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "axios-auth-refresh": "^3.0.0",
+    "body-parser": "1.18.x",
+    "build-url": "^6.0.1",
+    "dotenv": "^8.2.0",
+    "ejs": "2.5.x",
+    "express": "4.16.x",
+    "moment": "2.22.x",
+    "node-localstorage": "^2.1.6",
+    "nodemon": "^2.0.5"
+  }
+}
